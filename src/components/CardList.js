@@ -20,7 +20,7 @@ const CardList = ({robots})=>{
                             );
                     })
                 }
-                <p className='copy' >Copyright &copy; Adarsh Marakwar</p>
+                <p className='copy' >Copyright &copy; Purnima Katiyar</p>
             </div>
         );
 }
